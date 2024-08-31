@@ -1,5 +1,5 @@
 fn main() {
-    let people = vec!["Rust", "Wekoslav", "DWX", "Nürnberg"];
+    let people = vec!["Rust", "Wekoslav", "Kulen Dayz", "Osijek"];
     
     let greet = |name: &str| -> String { format!("Hello, {}!", name) };
     

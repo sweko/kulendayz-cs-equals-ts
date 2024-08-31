@@ -1,5 +1,5 @@
 ﻿var greet = (string name) => $"Hello, {name}!";
-List<string> people = ["C#", "Wekoslav", "DWX", "Nürnberg"];
+List<string> people = ["C#", "Wekoslav", "Kulen Dayz", "Osijek"];
 
 var greeted = people.Select(greet);
 

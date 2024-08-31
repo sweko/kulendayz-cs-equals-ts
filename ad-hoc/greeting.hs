@@ -4,7 +4,7 @@
 module Main where
 
 greet = \name -> "Hello, " ++ name ++ "!"
-people = ["Haskell","Wekoslav", "DWX", "Nürnberg"]
+people = ["Haskell", "Wekoslav", "Kulen Dayz", "Osijek"]
 
 greeted = map greet people
 

@@ -1,5 +1,5 @@
 const greet = (name: string) => `Hello, ${name}!`;
-const people = ["TypeScript", "Wekoslav", "DWX", "Nürnberg"];
+const people = ["TypeScript", "Wekoslav", "Kulen Dayz", "Osijek"];
 
 const greeted = people.map(greet);
 

@@ -1,4 +1,4 @@
-﻿string conference = "DWX";
+﻿string conference = "Kulen Dayz";
 string lecturer = "Wekoslav";
 string language = "C# (2015)";
 

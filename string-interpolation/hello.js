@@ -1,4 +1,4 @@
-const conference = "DWX";
+const conference = "Kulen Dayz";
 const lecturer = "Wekoslav";
 const language = "JavaScript (2015)";
 

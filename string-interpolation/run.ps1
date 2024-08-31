@@ -8,7 +8,7 @@ ts-node hello.ts
 
 
 # Powershell
-$conference = "DWX"
+$conference = "Kulen Dayz"
 $lecturer = "Wekoslav"
 $language = "Powershell (2006)"
 $greeting = "Hello, $conference, my name is $lecturer and I am $language."

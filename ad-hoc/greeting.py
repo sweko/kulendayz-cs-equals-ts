@@ -1,5 +1,5 @@
 greet = lambda name: f"Hello, {name}!"
-people = ["Python", "Wekoslav", "DWX", "Nürnberg"]
+people = ["Python", "Wekoslav", "Kulen Dayz", "Osijek"]
 
 greeted = map(greet, people)
 

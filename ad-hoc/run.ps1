@@ -24,7 +24,7 @@ Write-Output "";
 
 
 $greet = { param ($name) "Hello, $name!" }
-$people = @("PowerShell", "Wekoslav", "DWX", "Nürnberg")
+$people = @("PowerShell", "Wekoslav", "Kulen Dayz", "Osijek")
 
 $greeted = $people | ForEach-Object { $greet.Invoke($_) }
 
